@@ -1,5 +1,9 @@
 # Background Removal & Generation Backend Server
 
+<p align="center">
+  <img src="/logo.png" alt="BGeniUS Logo" width="150"/>
+</p>
+
 ## Overview
 
 This project provides the backend for an image‑background removal and generation service built with FastAPI. Core features include background removal, new background generation, and background replacement.
